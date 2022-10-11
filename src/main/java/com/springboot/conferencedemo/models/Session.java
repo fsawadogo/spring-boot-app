@@ -17,7 +17,6 @@ public class Session {
     private Integer session_length;
 
     public Session(){
-
     }
 
     @ManyToMany

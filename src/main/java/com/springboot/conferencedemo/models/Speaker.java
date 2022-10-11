@@ -28,7 +28,6 @@ public class Speaker {
     @JsonIgnore
     private List<Session> sessions;
 
-
     public Speaker(){
     }
 
